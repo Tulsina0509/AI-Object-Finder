@@ -1,0 +1,21 @@
+body{
+    background-position:center;
+    background-size:cover;
+}
+.heading{
+    width:100px;
+    margin-bottom:5px;
+    font-size:large;
+}
+h3{
+    color: darksalmon;
+}
+.object_name{
+    font-size:15px;
+    font-weight: bold;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px black;
+    background-color: red;
+}
